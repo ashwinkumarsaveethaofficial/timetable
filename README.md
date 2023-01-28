@@ -114,10 +114,12 @@ Execute the program
 ```
 
 # OUPUT
-![output](http://ashwinkumar.student.saveetha.in:8000/static/images/output.png?raw=true)
+![image](https://user-images.githubusercontent.com/120731469/215278891-1466ae9e-89f6-4f32-9bb7-06485b6c9b4e.png)
+
 
 # HTML VALIDATOR
-![HTML VALIDATOR](http://ashwinkumar.student.saveetha.in:8000/static/images/valid.png?raw=true)
+![image](https://user-images.githubusercontent.com/120731469/215278936-3d7dc505-7021-4ca2-a50a-bba2e436d52b.png)
+
 
 # RESUlt
 the program for creating timetable is running succesfully
